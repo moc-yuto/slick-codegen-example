@@ -1,5 +1,5 @@
 create TABLE int_table (
-  id int NOT NULL AUTO_INCREMENT,
+  id int NOT NULL AUTO_INCREMENT primary key,
   num1 int,
   num2 int,
   num3 int,
